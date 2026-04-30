@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-qwenclothingselector"
+description = "ComfyUI custom nodes for Qwen-Image-Edit outfit/clothing edits — toggles, presets, and identity-preserving prompt builders. Useful for fashion edits, costume changes, and outfit swaps."
+version = "1.0.0"
+license = { text = "MIT" }
+authors = [{ name = "Joe Fred Umlas" }]
+
+[project.urls]
+Repository = "https://github.com/xxchinenxx/ComfyUI-QwenClothingSelector"
+Issues = "https://github.com/xxchinenxx/ComfyUI-QwenClothingSelector/issues"
+
+[tool.comfy]
+PublisherId = "xxchinenxx"
+DisplayName = "Qwen Clothing Selector"
